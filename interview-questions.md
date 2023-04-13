@@ -12,7 +12,7 @@ Your answer: is an open computer programming model that organizes software desig
 
 Researched answer: Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.
 
-1. What is the difference between a Float and an Integer in Ruby? and integer is a whole number as to a float is a number with a decimal
+1. What is the difference between a Float and an Integer in Ruby? 
 
 Your answer: an integer is a whole number as to a float is a number with a decimal. an example of an integer is 10 as to a flow is 10.35
 
@@ -32,9 +32,10 @@ Researched answer: A block looks similar to a method in Ruby. Methods consist of
 
 1. How do you extract a value in a Ruby hash?
 
-Your answer:
+Your answer: by using the bracket notation.
 
-Researched answer: 
+Researched answer: In Ruby, a hash is a collection of key-value pairs.
+A hash is denoted by a set of curly braces ({}) which contains key-value pairs separated by commas. Each value is assigned to a key using a hash rocket (=>). Calling the hash followed by a key name within brackets grabs the value associated with that key.
 
 ## Looking Ahead: Terms for Next Week
 
